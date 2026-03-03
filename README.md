@@ -436,7 +436,6 @@ For detailed documentation, visit:
 **Developer:** Prashant Kumar
 - 🐙 GitHub: [@prashant-dev200](https://github.com/prashant-dev200/)
 - 📧 Email: prashantkumaretw2@gmail.com
-- 💼 LinkedIn: [Shubhankar Kumar](https://www.linkedin.com/in/shubhankar-kumar-aa42a23b2/)
 
 ### Get Help
 - 🐛 [Report Bugs](https://github.com/shubhankar011/AttendanceUsingFaceRecognition/issues)
@@ -468,4 +467,5 @@ For detailed documentation, visit:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 
 </div>
+
 
