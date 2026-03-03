@@ -1,6 +1,4 @@
-MIT License
-
-Copyright (c) 2026 prashant-dev200
+Copyright (c) 2026 Shubhankar Kumar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -9,8 +7,9 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+**NO ATTRIBUTION REQUIRED**: You are NOT required to give credit to the original
+author. You may use, redistribute, and modify this software under your own name
+without any attribution or acknowledgment.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -19,3 +18,30 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Plain English Summary
+
+**You can:**
+Use this software for any purpose (personal, commercial, educational)
+Modify the code however you want
+Redistribute the software
+Claim it as your own work
+Sell it
+Use it in proprietary software
+Remove this license and replace it with your own
+
+**You DON'T need to:**
+Give credit to the original author
+Include this license in your distributions
+Mention where you got the code from
+Keep the copyright notice
+
+**The only thing you can't do:**
+Hold the author liable for any issues or damages
+By downloading or forking, you own this project as well as the liability of the issues.
+---
+
+**NO NEED TO GIVE ME CREDIT. YOU CAN USE, REDISTRIBUTE AND MODIFY ON YOUR NAME.**
+
+This software is released into the community with no strings attached. 
+Do whatever you want with it. No attribution required. Ever.
