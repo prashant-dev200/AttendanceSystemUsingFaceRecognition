@@ -433,9 +433,9 @@ For detailed documentation, visit:
 
 ## 📧 Contact & Support
 
-**Developer:** Shubhankar Kumar
-- 🐙 GitHub: [@shubhankar011](https://github.com/shubhankar011)
-- 📧 Email: shubhankarpandey2007@outlook.com
+**Developer:** Prashant Kumar
+- 🐙 GitHub: [@prashant-dev200](https://github.com/prashant-dev200/)
+- 📧 Email: prashantkumaretw2@gmail.com
 - 💼 LinkedIn: [Shubhankar Kumar](https://www.linkedin.com/in/shubhankar-kumar-aa42a23b2/)
 
 ### Get Help
@@ -459,12 +459,13 @@ For detailed documentation, visit:
 
 <!-- **Built with ❤️ for smarter attendance management** -->
 
-![GitHub stars](https://img.shields.io/github/stars/shubhankar011/AttendanceUsingFaceRecognition?style=social)
-![GitHub forks](https://img.shields.io/github/forks/shubhankar011/AttendanceUsingFaceRecognition?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/shubhankar011/AttendanceUsingFaceRecognition?style=social)
+![GitHub stars](https://img.shields.io/github/stars/prashant-dev200/AttendanceUsingFaceRecognition?style=social)
+![GitHub forks](https://img.shields.io/github/forks/prashant-dev200/AttendanceUsingFaceRecognition?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/prashant-dev200/AttendanceUsingFaceRecognition?style=social)
 
 **Star this repo to show your support and stay updated!** 🌟
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 
 </div>
+
